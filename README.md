@@ -44,6 +44,9 @@
 ## 🧑 Crédits:
 Stacy Druart
 
+## statut:
+en cours
+
 ## sourses:
 https://developer.mozilla.org/fr/docs/Learn/JavaScript/Asynchronous/Introducing
 https://www.w3schools.com/js/js_async.asp
